@@ -14,17 +14,3 @@ Dual licensed under the MIT and GPL licenses:
 http://www.opensource.org/licenses/mit-license.php
 http://www.gnu.org/licenses/gpl.html
 
-Updates
--------
-
-12/6/2012 - Fixed a few demo bugs and made easier to use
-    - Fixed a bug that prevented the third section from working
-    - Removed the need to use the adjuster value
-
-8/5/2012 - Fixed height/outerHeight parameter
-	- Smoother effect when scrolling
-	- Fixed positioning with scaled backgrounds
-	- Reduced code
-	- Now passes jsl 0.3.0 without warnings
-
-26/10/2011 - Updated to work with jQuery 1.6.4
