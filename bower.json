@@ -12,11 +12,10 @@
     "jquery"
   ],
   "license": "MIT,GPL",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
+    "components",
     "test",
     "tests"
   ],
